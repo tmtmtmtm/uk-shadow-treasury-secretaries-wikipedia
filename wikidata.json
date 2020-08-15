@@ -1,13 +1,6 @@
 [
   {
     "item": {
-      "value": "Q695007",
-      "label": "Shabana Mahmood"
-    },
-    "statement": "Q695007$26864b3f-4dd5-f762-b6c3-1ccd290a2d87"
-  },
-  {
-    "item": {
       "value": "Q333079",
       "label": "Joel Barnett, Baron Barnett"
     },
@@ -67,6 +60,14 @@
     "item": {
       "value": "Q232639",
       "label": "Margaret Beckett"
+    },
+    "replaces": {
+      "value": "Q10648",
+      "label": "Gordon Brown"
+    },
+    "replacedBy": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
     },
     "start": {
       "value": "1989-01-09T00:00:00Z",
@@ -264,6 +265,29 @@
   },
   {
     "item": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replaces": {
+      "value": "Q332493",
+      "label": "George Osborne"
+    },
+    "replacedBy": {
+      "value": "Q266793",
+      "label": "Theresa Villiers"
+    },
+    "start": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332987$0317E7A3-E128-4055-A733-3566056FAAAB"
+  },
+  {
+    "item": {
       "value": "Q266793",
       "label": "Theresa Villiers"
     },
@@ -356,6 +380,29 @@
   },
   {
     "item": {
+      "value": "Q574896",
+      "label": "Rachel Reeves"
+    },
+    "replaces": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replacedBy": {
+      "value": "Q749759",
+      "label": "Chris Leslie"
+    },
+    "start": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q574896$910F3F49-5A50-4772-93D4-81E524FC49BC"
+  },
+  {
+    "item": {
       "value": "Q749759",
       "label": "Chris Leslie"
     },
@@ -376,6 +423,29 @@
       "precision": "11"
     },
     "statement": "Q749759$710E4253-43AE-476D-90D9-61EE2F3EC756"
+  },
+  {
+    "item": {
+      "value": "Q695007",
+      "label": "Shabana Mahmood"
+    },
+    "replaces": {
+      "value": "Q749759",
+      "label": "Chris Leslie"
+    },
+    "replacedBy": {
+      "value": "Q694984",
+      "label": "Seema Malhotra"
+    },
+    "start": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q695007$26864b3f-4dd5-f762-b6c3-1ccd290a2d87"
   },
   {
     "item": {
@@ -405,6 +475,14 @@
       "value": "Q19979355",
       "label": "Rebecca Long-Bailey"
     },
+    "replaces": {
+      "value": "Q694984",
+      "label": "Seema Malhotra"
+    },
+    "replacedBy": {
+      "value": "Q19957586",
+      "label": "Peter Dowd"
+    },
     "start": {
       "value": "2016-06-27T00:00:00Z",
       "precision": "11"
@@ -414,5 +492,43 @@
       "precision": "11"
     },
     "statement": "Q19979355$adfaa6c6-4c8e-b0ba-1a69-bc2839671d5c"
+  },
+  {
+    "item": {
+      "value": "Q19957586",
+      "label": "Peter Dowd"
+    },
+    "replaces": {
+      "value": "Q19979355",
+      "label": "Rebecca Long-Bailey"
+    },
+    "replacedBy": {
+      "value": "Q575337",
+      "label": "Bridget Phillipson"
+    },
+    "start": {
+      "value": "2017-02-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19957586$3B364F16-0343-4190-A0F0-60F102FB7004"
+  },
+  {
+    "item": {
+      "value": "Q575337",
+      "label": "Bridget Phillipson"
+    },
+    "replaces": {
+      "value": "Q19957586",
+      "label": "Peter Dowd"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q575337$9661F2DB-3D7C-49FD-8B1C-C6E0B519F4F3"
   }
 ]
