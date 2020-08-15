@@ -1,0 +1,418 @@
+[
+  {
+    "item": {
+      "value": "Q695007",
+      "label": "Shabana Mahmood"
+    },
+    "statement": "Q695007$26864b3f-4dd5-f762-b6c3-1ccd290a2d87"
+  },
+  {
+    "item": {
+      "value": "Q333079",
+      "label": "Joel Barnett, Baron Barnett"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333079$29DBF83B-A780-444F-A6D0-632E70805121"
+  },
+  {
+    "item": {
+      "value": "Q4980126",
+      "label": "Bryan Gould"
+    },
+    "replacedBy": {
+      "value": "Q10648",
+      "label": "Gordon Brown"
+    },
+    "start": {
+      "value": "1986-10-30T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q4980126$62245A59-6FF0-417A-B704-FB93F5C09814"
+  },
+  {
+    "item": {
+      "value": "Q10648",
+      "label": "Gordon Brown"
+    },
+    "replaces": {
+      "value": "Q4980126",
+      "label": "Bryan Gould"
+    },
+    "replacedBy": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "start": {
+      "value": "1987-07-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1989-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q10648$ba12f015-41bd-35f7-adc3-5ffd272400d7"
+  },
+  {
+    "item": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "start": {
+      "value": "1989-01-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q232639$C41DEA51-47F0-4ACF-B5D9-83674138B227"
+  },
+  {
+    "item": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replaces": {
+      "value": "Q232639",
+      "label": "Margaret Beckett"
+    },
+    "replacedBy": {
+      "value": "Q296639",
+      "label": "Alistair Darling"
+    },
+    "start": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q234182$975B39F5-D4CD-4D4C-8C12-AE3F486ED7A8"
+  },
+  {
+    "item": {
+      "value": "Q334296",
+      "label": "Andrew Smith"
+    },
+    "replaces": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replacedBy": {
+      "value": "Q296639",
+      "label": "Alistair Darling"
+    },
+    "start": {
+      "value": "1994-07-21T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1996-07-25T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q334296$D6BF1690-E475-4CEE-9DB1-A99E768BE1A2"
+  },
+  {
+    "item": {
+      "value": "Q296639",
+      "label": "Alistair Darling"
+    },
+    "replaces": {
+      "value": "Q234182",
+      "label": "Harriet Harman"
+    },
+    "replacedBy": {
+      "value": "Q333039",
+      "label": "David Heathcoat-Amory"
+    },
+    "start": {
+      "value": "1996-07-25T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-03T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q296639$D4685DF3-B92B-4EE3-97F5-7E7B443942B0"
+  },
+  {
+    "item": {
+      "value": "Q333039",
+      "label": "David Heathcoat-Amory"
+    },
+    "replaces": {
+      "value": "Q296639",
+      "label": "Alistair Darling"
+    },
+    "replacedBy": {
+      "value": "Q333480",
+      "label": "Oliver Letwin"
+    },
+    "start": {
+      "value": "1997-06-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2000-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333039$B1A21515-9C6C-4607-B596-7340921AB372"
+  },
+  {
+    "item": {
+      "value": "Q333480",
+      "label": "Oliver Letwin"
+    },
+    "replaces": {
+      "value": "Q333039",
+      "label": "David Heathcoat-Amory"
+    },
+    "replacedBy": {
+      "value": "Q263147",
+      "label": "John Bercow"
+    },
+    "start": {
+      "value": "2000-09-26T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333480$8D1DD10A-D7E3-467F-B5F5-3B38719C1316"
+  },
+  {
+    "item": {
+      "value": "Q263147",
+      "label": "John Bercow"
+    },
+    "replaces": {
+      "value": "Q333480",
+      "label": "Oliver Letwin"
+    },
+    "replacedBy": {
+      "value": "Q1234410",
+      "label": "Howard Flight"
+    },
+    "start": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2002-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q263147$7cf647a5-43fd-8817-c975-88d5865a21ff"
+  },
+  {
+    "item": {
+      "value": "Q1234410",
+      "label": "Howard Flight"
+    },
+    "replaces": {
+      "value": "Q263147",
+      "label": "John Bercow"
+    },
+    "replacedBy": {
+      "value": "Q332493",
+      "label": "George Osborne"
+    },
+    "start": {
+      "value": "2002-07-23T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2004-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q1234410$f2bbc5d1-4580-b7fb-ca11-2a81b4a4f387"
+  },
+  {
+    "item": {
+      "value": "Q332493",
+      "label": "George Osborne"
+    },
+    "replaces": {
+      "value": "Q1234410",
+      "label": "Howard Flight"
+    },
+    "replacedBy": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "start": {
+      "value": "2004-06-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332493$849AD63B-5809-4CA9-861A-E4EDCF374934"
+  },
+  {
+    "item": {
+      "value": "Q266793",
+      "label": "Theresa Villiers"
+    },
+    "replaces": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replacedBy": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "start": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q266793$2a92e25b-40d5-fcd6-2ace-a08dfc5c4f9f"
+  },
+  {
+    "item": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replaces": {
+      "value": "Q266793",
+      "label": "Theresa Villiers"
+    },
+    "replacedBy": {
+      "value": "Q269697",
+      "label": "Liam Byrne"
+    },
+    "start": {
+      "value": "2007-07-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332987$97db3f0c-4712-67d0-f675-498a9e3ff036"
+  },
+  {
+    "item": {
+      "value": "Q269697",
+      "label": "Liam Byrne"
+    },
+    "replaces": {
+      "value": "Q332987",
+      "label": "Philip Hammond"
+    },
+    "replacedBy": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q269697$8159D366-9F18-45C1-845F-1A1A3CACEEF5"
+  },
+  {
+    "item": {
+      "value": "Q302763",
+      "label": "Angela Eagle"
+    },
+    "replaces": {
+      "value": "Q269697",
+      "label": "Liam Byrne"
+    },
+    "replacedBy": {
+      "value": "Q574896",
+      "label": "Rachel Reeves"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q302763$C94AFEDE-6F6C-40DB-8AAD-A3A68F02790B"
+  },
+  {
+    "item": {
+      "value": "Q749759",
+      "label": "Chris Leslie"
+    },
+    "replaces": {
+      "value": "Q574896",
+      "label": "Rachel Reeves"
+    },
+    "replacedBy": {
+      "value": "Q695007",
+      "label": "Shabana Mahmood"
+    },
+    "start": {
+      "value": "2013-10-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q749759$710E4253-43AE-476D-90D9-61EE2F3EC756"
+  },
+  {
+    "item": {
+      "value": "Q694984",
+      "label": "Seema Malhotra"
+    },
+    "replaces": {
+      "value": "Q695007",
+      "label": "Shabana Mahmood"
+    },
+    "replacedBy": {
+      "value": "Q19979355",
+      "label": "Rebecca Long-Bailey"
+    },
+    "start": {
+      "value": "2015-09-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q694984$120fe7d8-4b3c-e94a-ab41-9c1ceb2552d8"
+  },
+  {
+    "item": {
+      "value": "Q19979355",
+      "label": "Rebecca Long-Bailey"
+    },
+    "start": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2017-02-09T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19979355$adfaa6c6-4c8e-b0ba-1a69-bc2839671d5c"
+  }
+]
